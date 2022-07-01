@@ -1,3 +1,10 @@
+# Models
+*.obj
+*.bin
+*.ply
+TriangleMeshCollision/Assets/Scene/*
+!TriangleMeshCollision/Assets/Scene/Settings/
+
 # Prerequisites
 *.d
 
@@ -5,7 +12,6 @@
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
@@ -30,3 +36,9 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio	
+.vs/*
+TriangleMeshCollision/Debug/*
+TriangleMeshCollision/Release/*
+TriangleMeshCollision/x64/*

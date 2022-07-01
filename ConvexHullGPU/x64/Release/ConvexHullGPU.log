@@ -1,0 +1,8 @@
+﻿  CADScene.cpp
+     Creando biblioteca D:\Github\ConvexHullGPU\x64\Release\ConvexHullGPU.lib y objeto D:\Github\ConvexHullGPU\x64\Release\ConvexHullGPU.exp
+  Generando código
+  657 of 7930 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    77 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ConvexHullGPU.vcxproj -> D:\Github\ConvexHullGPU\x64\Release\ConvexHullGPU.exe
